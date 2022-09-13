@@ -1,2 +1,2 @@
-# SQL_Example
-Demonstration of complicated SQL queries
+# SQL_Examples
+Some examples of SQL experience
